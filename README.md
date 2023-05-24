@@ -6,7 +6,7 @@
 
 
 ## :star: Dataset Description
-Data set is downloaded from Kaggle
+Data set is downloaded from Kaggle : https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction
 | Column name              | Description                                                |
 | :------------------------| :----------------------------------------------------------|
 | Manufacturer             | Brand                                                      |
